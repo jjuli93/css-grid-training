@@ -1,0 +1,17 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+.title {
+  margin: 0 auto;
+  color: white;
+  display: flex;
+}
