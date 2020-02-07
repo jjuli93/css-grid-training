@@ -1,0 +1,32 @@
+1. explain grid, show image example
+2. create items
+3. grid-template columns
+4. grid-template-rows
+5. grid-gap
+6. Implicit vs explicit, show implicit rows
+7. grid-auto-rows
+8. grid-auto-flow: columns
+9. px vs auto vs %
+10. % and show scroll because of grid-gap
+11. FR
+12. make long text on column and show size of all columns
+13. repeat
+14. repeat between other columns
+15. items: span x (if it doesnt fit it goes to the next row)
+16. span x > max columns => it creates new columns
+17. grid-column: x / y
+18. grid-column: 1 / -1
+19. grid-row: x / y
+20. grid-column-start & grid-column-end
+21. auto-fit:  [repeat(auto-fill, 100px)]
+22. auto-fill vs auto-fit
+23. minmax [(auto-fill, minmax(150px, 1fr))]
+24. grid-template-areas defining rows and columns
+25. grid-template-areas without defining rows and columns
+26. media query to change grid-areas
+27. implicit rows when not enough areas
+28. naming lines [Grid-template-columns: [site-left] 1fr [content-start] 10fr [content-end] 1fr [site-right]]
+29. Autoflow
+30. centering (items, content, self)
+31. order
+32. flex vs grid
